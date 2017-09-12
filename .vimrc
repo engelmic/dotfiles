@@ -3,7 +3,7 @@
 
 let mapleader = ","
 
-colorscheme default
+colorscheme pablo
 
 syntax on
 set number
