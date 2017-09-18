@@ -3,7 +3,7 @@
 
 let mapleader = ","
 
-colorscheme torte
+colorscheme cobalt
 
 syntax on
 set number
